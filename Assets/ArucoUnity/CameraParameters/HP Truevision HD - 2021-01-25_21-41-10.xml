@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArucoCameraParameters xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CalibrationDateTime>2021-01-25T21:41:10.1863567+01:00</CalibrationDateTime>
+  <CameraNumber>1</CameraNumber>
+  <ImageHeights>
+    <int>480</int>
+  </ImageHeights>
+  <ImageWidths>
+    <int>640</int>
+  </ImageWidths>
+  <CalibrationFlagsValue>256</CalibrationFlagsValue>
+  <FixAspectRatioValue>0</FixAspectRatioValue>
+  <ReprojectionErrors>
+    <double>43.24068290490569</double>
+  </ReprojectionErrors>
+  <CameraMatricesType>CV_64F</CameraMatricesType>
+  <CameraMatricesValues>
+    <ArrayOfArrayOfDouble>
+      <ArrayOfDouble>
+        <double>4062.0864669026796</double>
+        <double>0</double>
+        <double>405.76546920448709</double>
+      </ArrayOfDouble>
+      <ArrayOfDouble>
+        <double>0</double>
+        <double>215.52765366366393</double>
+        <double>174.85953203203277</double>
+      </ArrayOfDouble>
+      <ArrayOfDouble>
+        <double>0</double>
+        <double>0</double>
+        <double>1</double>
+      </ArrayOfDouble>
+    </ArrayOfArrayOfDouble>
+  </CameraMatricesValues>
+  <DistCoeffsType>CV_64F</DistCoeffsType>
+  <DistCoeffsValues>
+    <ArrayOfArrayOfDouble>
+      <ArrayOfDouble>
+        <double>-0.435786145641336</double>
+        <double>-0.0038129484899849732</double>
+        <double>0.050247703520410622</double>
+        <double>-0.017085413212451942</double>
+        <double>0.013369583344960813</double>
+      </ArrayOfDouble>
+    </ArrayOfArrayOfDouble>
+  </DistCoeffsValues>
+  <OmnidirXisType>CV_8U</OmnidirXisType>
+  <OmnidirXisValues>
+    <ArrayOfArrayOfDouble />
+  </OmnidirXisValues>
+</ArucoCameraParameters>

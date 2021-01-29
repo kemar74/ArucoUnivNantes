@@ -1,5 +1,10 @@
 
 Library/metadata/
+Library/PlayerDataCache/
+Library/Artifacts/
 Library/PackageCache/
 Library/ShaderCache/
 Temp/
+.vscode/
+
+*.log
